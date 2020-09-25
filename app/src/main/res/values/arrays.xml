@@ -3,10 +3,7 @@
     <string-array name="fishes">
         <item>Shark</item>
         <item>Pillar</item>
-
         <item>Dolphin</item>
         <item>Tuna</item>
-
-
     </string-array>
 </resources>
